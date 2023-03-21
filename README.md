@@ -6,7 +6,5 @@ GOROOT and GOPATH environment variables left without changes.
 
 ## Simple Tags
 
-Currently only go 1.17 on Alpine Linux is supported.
-
-- [`1.17-alpine`](1.17-alpine/Dockerfile), [`latest`](1.17-alpine/Dockerfile)
-
+- [`1.17-alpine`](1.17-alpine/Dockerfile)
+- [`1.20-bullseye](1.20-bullseye/Dockerfile), [`latest`](1.20-bullseye/Dockerfile)
